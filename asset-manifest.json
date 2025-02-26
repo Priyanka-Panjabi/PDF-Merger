@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/merge-pdf/static/css/main.e813e701.css",
+    "main.js": "/merge-pdf/static/js/main.6f4b9f06.js",
+    "static/js/787.232d432b.chunk.js": "/merge-pdf/static/js/787.232d432b.chunk.js",
+    "index.html": "/merge-pdf/index.html",
+    "main.e813e701.css.map": "/merge-pdf/static/css/main.e813e701.css.map",
+    "main.6f4b9f06.js.map": "/merge-pdf/static/js/main.6f4b9f06.js.map",
+    "787.232d432b.chunk.js.map": "/merge-pdf/static/js/787.232d432b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e813e701.css",
+    "static/js/main.6f4b9f06.js"
+  ]
+}
